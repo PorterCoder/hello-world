@@ -17,7 +17,7 @@ public class GitDemo {
         System.out.print("Add num to previousNumber");
         return previousNumber+num;
     }
-    
+ 
     /*****
      * This function should calculate the factorial of 'num' and return the resulting value.
      * i.e. if num = 4,
@@ -50,5 +50,4 @@ public class GitDemo {
         reverseNum = newNumber;
         return newNumber;
     }
-    
 }
