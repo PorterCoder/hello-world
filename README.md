@@ -1,5 +1,5 @@
 # hello-world
 
-This is a test of the new branch
+CSE 360 Hello World git demo
 
-hello world :)
+Austin Porter
