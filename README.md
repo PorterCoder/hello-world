@@ -2,4 +2,4 @@
 
 CSE 360 Hello World git demo
 
-Austin Porter
+Put your name somewhere in this file
